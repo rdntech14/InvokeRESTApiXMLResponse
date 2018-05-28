@@ -1,0 +1,6 @@
+ <response>
+ <data/>
+			<apierror>
+				<message>Sorry, looks like your API key is invalid. Bummer.</message>
+			</apierror>
+</response>
